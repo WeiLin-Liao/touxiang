@@ -2,7 +2,7 @@
 
 2021最新女生头像，男生头像，情侣头像，闺蜜头像，明星头像，动漫头像，可爱头像，学生头像，唯美头像，伤感头像，高冷头像....
 
-<div style="text-align: center;">
+<div style="align: center;">
   <img src="https://cdn.jsdelivr.net/gh/WeiLin-Liao/touxiang/images/20210828113541.png">
   <img src="https://cdn.jsdelivr.net/gh/WeiLin-Liao/touxiang/images/20210828113545.png">
   <img src="https://cdn.jsdelivr.net/gh/WeiLin-Liao/touxiang/images/20210828113548.png">
